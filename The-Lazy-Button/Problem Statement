@@ -18,3 +18,5 @@ After another 1 second, reset:
 Button text back to "Click Me!"
 Button re-enabled for clicking again.
 If the user tries clicking while it’s disabled, nothing should happen.
+
+file:///home/navgurukul/Asynchronous--JavaScript-Mini-Project/The-Lazy-Button/index.html
