@@ -1,0 +1,20 @@
+Problem Statement
+You’re designing a webpage with a special button called “The Lazy Button.”
+
+This button doesn’t like doing things immediately — it takes its time to respond.
+
+When the user clicks it, the button should show that it’s thinking, 
+then later confirm that it’s done, and finally reset itself to normal again — all automatically.
+
+Your Task
+Create a webpage that behaves as follows:
+
+The page has one button with the text "Click Me!"
+When clicked:
+Immediately change the text to "Processing..."
+Disable the button (so it can’t be clicked again yet).
+After 2 seconds, automatically change the text to "Done!"
+After another 1 second, reset:
+Button text back to "Click Me!"
+Button re-enabled for clicking again.
+If the user tries clicking while it’s disabled, nothing should happen.

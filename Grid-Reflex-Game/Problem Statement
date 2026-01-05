@@ -1,0 +1,25 @@
+Grid Reflex Game
+Problem Statement
+You’re creating a fun reflex game that tests how quickly the player can click the right box when it becomes active. 
+The game displays a 3x3 grid (9 boxes total). Every few seconds, one box becomes active by changing color.
+The player must click it before it deactivates to score a point.
+
+Your Task
+Create a webpage that behaves as follows:
+
+The page displays a 3x3 grid of gray boxes.
+Every 2 seconds, one random box becomes active by changing its color from gray to green.
+The player has 1 second to click the active box.
+If the player clicks the active box → +1 point.
+After a 2-second gap, another random box becomes active.
+The game runs for 30 seconds in total.
+When the game ends:
+All boxes deactivate.
+The final score remains displayed on the screen.
+Think Before You Code
+Before writing any code, take time to plan your solution in depth. 
+Break the requirements into smaller steps — decide what needs to happen first, what follows, 
+and how each part will connect. Once you have your plan, start implementing each step one by one.
+
+
+
